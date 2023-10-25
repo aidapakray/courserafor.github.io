@@ -150,6 +150,8 @@ text-align: center;
   margin: 0px;
 box-sizing: content-box;
 background-color: aqua;
+width: 150px;
+float: right;
 }
 
 .titleright2 {
